@@ -1,2 +1,2 @@
 # Tableau-Sales-Insight-Project
-Our case study is based on a computer hardware business called AtliQ Hardware, which is facing challenges in dynamically changing market. The sales director decides to invest in data analysis project and he would like to build Tableau dashboard that can give him real time sales insights.![image](https://github.com/ddey3/Tableau-Sales-Insight-Project/assets/140910774/948a9b3d-f26d-4913-bdac-ca53c978ad21)
+Our case study is based on a computer hardware business called AtliQ Hardware, which is facing challenges in a dynamically changing market. The sales director decided to invest in a data analysis project and he would like to build a Tableau dashboard that can give him real-time sales insights.
